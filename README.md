@@ -5,7 +5,6 @@
 
 <p align="center">
   <a href="https://www.facebook.com/thanh.phong.233682/"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=ff3399" alt="Facebook"/></a>
-<a href="https://www.linkedin.com/in/phong-thanh-8641663b6/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=%23ff3399&v=2335" alt="LinkedIn"/></a>
   <a href="kenkai2335@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=ff3399" alt="Gmail"/></a>
 </p>
 
@@ -24,7 +23,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhphong2335/thanhphong2335/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhphong2335/thanhphong2335/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thanhphong2335/thanhphong2335/output/github-contribution-grid-snake.svg" width="500">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thanhphong2335/thanhphong2335/output/github-contribution-grid-snake.svg" width="450">
 </picture>
 
 <br clear="all"> <!-- Chốt hạ dòng này để các phần Tool/Language bên dưới không bị trồi lên lộn xộn -->
