@@ -24,7 +24,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhphong2335/thanhphong2335/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhphong2335/thanhphong2335/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thanhphong2335/thanhphong2335/output/github-contribution-grid-snake.svg" width="630">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thanhphong2335/thanhphong2335/output/github-contribution-grid-snake.svg" width="500">
 </picture>
 
 <br clear="all"> <!-- Chốt hạ dòng này để các phần Tool/Language bên dưới không bị trồi lên lộn xộn -->
