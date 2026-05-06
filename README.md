@@ -16,7 +16,7 @@
 ### 👋 Hi there, Good Day
 
 <!-- Ép cái ảnh Mascot sang bên phải. Mày có thể đổi link ảnh khác nếu muốn -->
-<img align="right" width="250" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg" alt="Hardware Mascot">
+<img align="right" width="220" src="./image.png" alt="Hardware Core">
 
 I am a 3rd-year Computer Engineering student at HCMUT, passionate about hardware engineering and embedded systems. I enjoy diving deep into silicon, exploring new low-level architectures, and actively contributing to open-source hardware projects. 
 
