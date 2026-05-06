@@ -1,37 +1,40 @@
-## ⚡ `System.init("Le Thanh Phong");`
-**Status:** `[ONLINE]` | **Role:** `3rd-Year CE Student @ HCMUT`
+<h1 align="center" style="color: #FF69B4; font-family: monospace;">Lê Thanh Phong</h1>
 
-Welcome to my workspace! I don't just write code; I make silicon do exactly what I want. Passionate about bringing logic to life through Embedded Systems, FPGA, and low-level architectures. 
-
-### 🖨️ `./execute_about_me.sh`
-- 🎯 **Current Focus:** Deep diving into **RISC-V architecture** and designing **Enterprise Network Topologies**.
-- 🛠️ **Hands-on with:** Programming **STM32** microcontrollers, synthesizing **FPGA** logic, and building hardware-software interfaces.
-- 📝 **Documentation:** I craft all my hardware specs and academic lab reports beautifully using **LaTeX**.
-- 📫 **Ping me at:** `[Điền Gmail của mày vào đây]`
-- 💼 **Status:** Open for Embedded Software/Hardware Engineering opportunities.
-
-### 🔌 Hardware & Logic Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/FPGA_Arty_Z7--20-E34F26?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+<p align="center">
+  <!-- Mấy cái icon mạng xã hội đổi màu hồng cho giống mẫu -->
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:thanhphong@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
 </p>
 
-### 💻 Firmware & Software Stack
+---
+
+### 👋 Hi there, Good Day
+
+<!-- Ép cái ảnh Mascot sang bên phải. Mày có thể đổi link ảnh khác nếu muốn -->
+<img align="right" width="250" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg" alt="Hardware Mascot">
+
+I am a 3rd-year Computer Engineering student at HCMUT, passionate about hardware engineering and embedded systems. I enjoy diving deep into silicon, exploring new low-level architectures, and actively contributing to open-source hardware projects. 
+
+Currently, my focus is on **STM32 microcontrollers, FPGA logic design**, and **Enterprise Network Topologies**. 
+
+<br>
+
+<!-- Khu vực hiển thị con rắn ăn biểu đồ Commit -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhphong2335/thanhphong2335/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhphong2335/thanhphong2335/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thanhphong2335/thanhphong2335/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 🛠 Language and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Verilog-2C2255?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### ⚙️ System Log (Highlight Projects)
-- `[SUCCESS]` **Goods Classification System:** Automated classification using `STM32F103C8` and `Arty Z7-20` FPGA.
-- `[SUCCESS]` **UART Flow & Error Control:** Custom state machine implementation handling ADC sensor data.
-- `[IN_PROGRESS]` **Enterprise Network Infrastructure:** Comprehensive logical topology and throughput calculation for Hospital LAN/WAN.
-
-### 📊 Real-time Telemetry
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhphong2335&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
