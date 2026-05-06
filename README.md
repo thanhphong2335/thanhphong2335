@@ -1,10 +1,9 @@
 <p align="center">
-  <!-- Biến tên thành ảnh SVG màu hồng Neon, font code, kèm hiệu ứng gõ phím -->
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=40&color=ff3399&center=true&vCenter=true&width=500&lines=Lê+Thanh+Phong" alt="Lê Thanh Phong" />
+  <!-- Đã mã hóa chữ 'ê' thành '%C3%AA' và dùng server Vercel siêu ổn định -->
+  <img src="https://readme-typing-svg.vercel.app?font=Space+Mono&weight=700&size=40&color=ff3399&center=true&vCenter=true&width=500&lines=L%C3%AA+Thanh+Phong" alt="Lê Thanh Phong" />
 </p>
 
 <p align="center">
-  <!-- Dàn icon mạng xã hội tàng hình nền, chừa lại logo màu hồng -->
   <a href="#"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=ff3399" alt="Facebook"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=ff3399" alt="LinkedIn"/></a>
   <a href="mailto:thanhphong@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=ff3399" alt="Gmail"/></a>
