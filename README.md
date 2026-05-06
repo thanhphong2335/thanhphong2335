@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="https://www.facebook.com/thanh.phong.233682/"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=ff3399" alt="Facebook"/></a>
-  <a href="https://www.linkedin.com/in/phong-thanh-8641663b6/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=ff3399" alt="LinkedIn"/></a>
-  <a href="mailto:kenkai2335@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=ff3399" alt="Gmail"/></a>
+ <a href="https://www.linkedin.com/in/phong-thanh-8641663b6/"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=ff3399" alt="LinkedIn"/></a>
+  <a href="kenkai2335@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=ff3399" alt="Gmail"/></a>
 </p>
 
 ---
